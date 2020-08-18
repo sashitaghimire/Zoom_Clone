@@ -125,7 +125,7 @@ const setStopVideo = () => {
   document.querySelector('.main__video_button').innerHTML = html;
 }
 
-const setPlayVideo = () => {
+const setPlayVideo = () => {s
   const html = `
   <i class="stop fas fa-video-slash"></i>
     <span>Play Video</span>
